@@ -18,6 +18,6 @@
 * ⚡ `I'm`: **25 years old**,
 * 🌱 `I’m currently learning`: **C**,
 * ❤️ `I love`: **Low-Level Programming**  ,
-* 💻 `Favorite languages`: **C, C++ & Java**
+* 💻 `Favorite languages`: **C, C++**
 
 <br/>
